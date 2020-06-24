@@ -1,5 +1,5 @@
 <h1>QUARANTINE PARTY</h1>
-
+Deployed Version: https://enigmatic-waters-39830.herokuapp.com/
 <h2>Project Overview</h2>
 Quaratine Party is a full-stack web application implemented using Node.js, Express, mySQL, and Sequelize on the back end. Bootstrap, JQuery, and Handlebars on the front end. It's deployed to Heroku. Quarantine Party is basically a survival guide app for the apocalypse. No matter the emergency you can stay informed on how to be prepared and the news for any disaster you're curious about.
 <hr></hr>
